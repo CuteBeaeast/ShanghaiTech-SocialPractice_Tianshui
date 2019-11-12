@@ -1,1 +1,14 @@
-# ShanghaiTech-SocialPractice-Tianshui
+# ShanghaiTech-SocialPractice_Tianshui
+
+上海科技大学2018级暑期社会实践甘肃天水小队数据开源
+
+## 1.	采访记录
+
+### 1）学生家访记录
+
+### 2）齐寿中学教职工、毕业生采访记录
+
+### 3）其它采访记录
+
+## 2.	调查数据
+
