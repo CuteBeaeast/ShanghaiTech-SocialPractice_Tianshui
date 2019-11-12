@@ -2,13 +2,11 @@
 
 上海科技大学2018级暑期社会实践甘肃天水小队数据开源
 
-[TOC]
-
 ## One.	数据索引
 
-### 1.	[采访记录]([https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/%E9%87%87%E8%AE%BF%E8%AE%B0%E5%BD%95](https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/采访记录))
+### 1.	[采访记录](https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/采访记录)
 
-#### 1）[学生家访记录]([https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/%E9%87%87%E8%AE%BF%E8%AE%B0%E5%BD%95/%E5%AD%A6%E7%94%9F%E5%AE%B6%E8%AE%BF](https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/采访记录/学生家访))
+#### 1）[学生家访记录](https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/采访记录/学生家访)
 
 * 190724学生家访_廖同学采访记录.pdf
 * 190724学生家访_杜同学采访记录.pdf
@@ -20,7 +18,7 @@
 * 17979 190726学生家访_王同学采访记录.docx
 * 111525 190729学生家访_赵佳信.pdf
 
-#### 2）[齐寿中学教职工、毕业生采访记录]([https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/%E9%87%87%E8%AE%BF%E8%AE%B0%E5%BD%95/%E9%BD%90%E5%AF%BF%E4%B8%AD%E5%AD%A6%E6%95%99%E8%81%8C%E5%B7%A5%E3%80%81%E6%AF%95%E4%B8%9A%E7%94%9F%E9%87%87%E8%AE%BF%E8%AE%B0%E5%BD%95](https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/采访记录/齐寿中学教职工、毕业生采访记录))
+#### 2）[齐寿中学教职工、毕业生采访记录](https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/采访记录/齐寿中学教职工、毕业生采访记录)
 
 * 190723校长采访结果整理.pdf
 * 190723英语王老师采访结果整理.pdf
@@ -30,7 +28,7 @@
 * 190726采访_齐寿中学毕业生马同学采访记录.pdf
 * 190730曹老师采访记录.docx
 
-#### 3）[其它采访记录]([https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/%E9%87%87%E8%AE%BF%E8%AE%B0%E5%BD%95/%E5%85%B6%E5%AE%83%E9%87%87%E8%AE%BF%E8%AE%B0%E5%BD%95](https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/采访记录/其它采访记录))
+#### 3）[其它采访记录](https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/采访记录/其它采访记录)
 
 * 190729教育局采访.docx
 * 190725政府采访.pdf
@@ -44,9 +42,9 @@
 * 190729文旅局采访.pdf
 * 190729文旅局采访结果.pdf
 
-### 2.	[调查数据]([https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/%E8%B0%83%E6%9F%A5%E6%95%B0%E6%8D%AE](https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/调查数据))
+### 2.	[调查数据](https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/调查数据)
 
-#### 1）[齐寿镇]([https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/%E8%B0%83%E6%9F%A5%E6%95%B0%E6%8D%AE/%E9%BD%90%E5%AF%BF%E4%B8%AD%E5%AD%A6](https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/调查数据/齐寿中学))
+#### 1）[齐寿镇](https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/调查数据/齐寿中学)
 
 * 农户问卷_总结.csv
 * 商户问卷_总结.csv
@@ -54,7 +52,7 @@
 * 普通家庭问卷_总结.csv
 * 齐寿学区2019小学人数.xlsx
 
-#### 2）[齐寿中学]([https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/%E8%B0%83%E6%9F%A5%E6%95%B0%E6%8D%AE/%E9%BD%90%E5%AF%BF%E9%95%87](https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/调查数据/齐寿镇))
+#### 2）[齐寿中学](https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/tree/master/调查数据/齐寿镇)
 
 * 全校信息_总结.csv
 * 心理健康调查_总结.xlsx
@@ -64,7 +62,7 @@
 
 
 
-##  Two.	[实践报告]([https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/blob/master/%E8%AF%BE%E9%A2%98%E6%8A%A5%E5%91%8A/%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%B4%E5%9B%A2%E9%98%9F%E7%A4%BE%E4%BC%9A%E5%AE%9E%E8%B7%B5%E6%8A%A5%E5%91%8A.pdf](https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/blob/master/课题报告/甘肃天水团队社会实践报告.pdf))
+##  Two.	[实践报告](https://github.com/CuteBeaeast/ShanghaiTech-SocialPractice_Tianshui/blob/master/课题报告/甘肃天水团队社会实践报告.pdf)
 
 * 题目：乡镇教育环境研究：齐寿镇教育发展状况概述与建议
 * 指导教师：王浩宇 王健
